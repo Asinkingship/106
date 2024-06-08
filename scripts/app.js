@@ -9,6 +9,9 @@ function sayGoodbye(){
 function init(){
     console.log("hello world");
     sayHello()
+    sayGoodbye()
 }
 
+
+//testing for change
 window.onload = init;
